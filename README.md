@@ -20,5 +20,7 @@ Eine **eigene** virtuelle Haustier-App im Cyberpunk-/Roboter-Stil. Sie verwendet
 ## APK bauen
 Das Projekt enthält einen GitHub-Actions-Workflow unter `.github/workflows/build-apk.yml`. Nach einem Push auf `main` baut GitHub automatisch eine Debug-APK als Artifact.
 
+Build eingerichtet: 31.08.2026.
+
 ## Hinweis
 Das ist ein eigenständiges CyberPet-Konzept und **keine modifizierte Pou-APK**.
